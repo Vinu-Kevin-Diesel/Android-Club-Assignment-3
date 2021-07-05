@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "name": "eating",
+      "id": 1
+    },
+    {
+      "name": "swimming",
+      "id": 2
+    },
+    {
+      "name": "running",
+      "id": 3
+    },
+    {
+      "name": "meeting",
+      "id": 4
+    }
+  ]
+}
